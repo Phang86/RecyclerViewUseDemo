@@ -26,13 +26,16 @@ public class BannerActivity extends AppCompatActivity {
     private MZBannerView mMZBanner;
     private List<ImageBean> imgs = new ArrayList<>();
     private String [] imgUrls = {
-    "https://mapopen-website-wiki.bj.bcebos.com/banner/webreset-banner.jpg"
-    ,"https://mapopen-website-wiki.bj.bcebos.com/solutions/scheduling/scheduling-banner2.jpg"
-    ,"https://mapopen-website-wiki.cdn.bcebos.com/banner/lightauthbanner.png"
-    ,"https://mapopen-website-wiki.cdn.bcebos.com/banner/new_nav_sdk.png"
-    ,"https://mapopen-website-wiki.cdn.bcebos.com/banner/smart_traffic_light%402.png"
-    ,"https://img-operation.csdnimg.cn/csdn/silkroad/img/1683622576466.png"
-    ,"https://img-operation.csdnimg.cn/csdn/silkroad/img/1683770810899.png"
+    "https://img.alicdn.com/imgextra/i3/O1CN01Sf6dER1zbJ3uVQ0lE_!!6000000006732-0-tps-846-472.jpg"
+    ,"https://img.alicdn.com/imgextra/i2/O1CN01XZC8Dd1IUs179sweg_!!6000000000897-2-tps-846-472.png"
+    ,"https://img.alicdn.com/imgextra/i3/O1CN01RbnhFd1wBFigMUNYq_!!6000000006269-2-tps-846-472.png"
+    ,"https://img.alicdn.com/imgextra/i1/O1CN01YGUXOM1k5VKBPo5J3_!!6000000004632-2-tps-846-472.png"
+    ,"https://gw.alicdn.com/imgextra/i4/O1CN01a71ilU1T2RCTvUXDY_!!6000000002324-0-tps-846-472.jpg"
+    ,"https://img.alicdn.com/imgextra/i1/O1CN01oMX2yU21pclJPCGXx_!!6000000007034-2-tps-1316-736.png"
+    ,"https://img.alicdn.com/imgextra/i1/O1CN01a7jyR91cXt0ENd6hO_!!6000000003611-2-tps-1316-736.png"
+    ,"https://img.alicdn.com/imgextra/i2/O1CN01X8SenW1KpbFlCrDpy_!!6000000001213-2-tps-1316-736.png"
+    ,"https://img.alicdn.com/imgextra/i2/O1CN01samGeP1RB1PEiilFO_!!6000000002072-0-tps-1316-736.jpg"
+    ,"https://img30.360buyimg.com/pop/s1180x940_jfs/t1/93973/27/37836/99196/6459b114F7ca5b000/80a89e0ef91c5bf5.jpg"
     };
 
     @Override
