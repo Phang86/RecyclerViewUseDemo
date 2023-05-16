@@ -1,4 +1,4 @@
-package com.gy.recyclerviewusedemo;
+package com.gy.recyclerviewusedemo.bean;
 
 public class ImageBean {
     private Object img;

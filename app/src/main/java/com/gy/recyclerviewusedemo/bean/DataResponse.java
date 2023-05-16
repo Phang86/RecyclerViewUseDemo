@@ -1,4 +1,4 @@
-package com.gy.recyclerviewusedemo;
+package com.gy.recyclerviewusedemo.bean;
 
 import java.util.List;
 

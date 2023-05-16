@@ -1,15 +1,15 @@
-package com.gy.recyclerviewusedemo;
+package com.gy.recyclerviewusedemo.adapter;
 
-import android.graphics.drawable.Drawable;
 import android.view.View;
 import android.widget.ImageView;
 
 import androidx.annotation.NonNull;
 
 import com.bumptech.glide.Glide;
-import com.bumptech.glide.request.target.Target;
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.viewholder.BaseViewHolder;
+import com.gy.recyclerviewusedemo.bean.DataResponse;
+import com.gy.recyclerviewusedemo.R;
 
 import java.util.List;
 

@@ -1,16 +1,17 @@
-package com.gy.recyclerviewusedemo;
+package com.gy.recyclerviewusedemo.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+import com.gy.recyclerviewusedemo.adapter.ImageAdapter;
+import com.gy.recyclerviewusedemo.bean.ImageBean;
+import com.gy.recyclerviewusedemo.R;
 import com.youth.banner.Banner;
 import com.youth.banner.indicator.CircleIndicator;
 import com.zhouwei.mzbanner.MZBannerView;

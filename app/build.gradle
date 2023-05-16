@@ -56,4 +56,22 @@ dependencies {
     implementation 'io.github.youth5201314:banner:2.2.2'
     //仿魅族banner
     implementation 'com.github.pinguo-zhouwei:MZBannerView:v2.0.2'
+
+    //Gson解析
+    implementation 'com.google.code.gson:gson:2.8.6'
+    //RecyclerView
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    //RecyclerView的好搭档
+//    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22'
+    //热门强大的图片加载器
+//    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
+
+    //下拉刷新框架
+    implementation 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-alpha-14'
+    //没有使用特殊Header，可以不加这行
+    implementation 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-alpha-14'
+
+
+
 }
